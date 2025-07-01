@@ -1,49 +1,61 @@
 # palak-katara
 
- <h1 align="center">Hi 👋, I'm Palak Katara</h1>
+
+<h1 align="center">Hi 👋, I'm Palak Katara</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C600&width=435&lines=Full+Stack+Developer;Java+%26+MERN+Stack+Specialist;Building+robust+software+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7941E&width=435&lines=Full+Stack+Developer;Java+%26+MERN+Stack+Specialist;Problem+Solver+%7C+Lifelong+Learner;Building+Awesome+Software+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
+### 🚀 About Me
+
 - 🔭 I’m currently working on **software development projects using Java & MERN stack**
-- 🌱 Always exploring new technologies and improving my problem-solving skills
-- 👯 I’m looking to collaborate on **open source and interesting team projects**
+- 🌱 Continuously learning **new technologies and improving my DSA skills**
+- 👯 Looking to collaborate on **open source projects & hackathons**
 - 💬 Ask me about **React, Node.js, Java, MongoDB**
-- ⚡ Fun fact: **I enjoy creating memes and automating little things!**
+- ⚡ Fun fact: **I love making memes & automating small tasks!**
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+### 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palakkatara&show_icons=true&theme=radical" alt="Palak's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=palakkatara14&show_icons=true&theme=tokyonight&hide_border=true" alt="Palak's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakkatara&theme=radical" alt="Palak's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakkatara14&theme=tokyonight&hide_border=true" alt="Palak's GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkatara&layout=compact&theme=radical" alt="Palak's languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkatara14&layout=compact&theme=tokyonight&hide_border=true" alt="Palak's top languages" />
 </p>
 
 ---
 
-![Snake animation](https://github.com/palakkatara/palakkatara/blob/output/github-contribution-grid-snake.svg)
+
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/palak-katara-585849255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/palakkatara/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:palak.katara@gla.ac.in" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
-</p>
+### 🚀 Featured Projects
+
+- 🎮 [Tic Tac Toe Game](https://github.com/palakkatara14/TIC-TAC-TOE-GAME)
+- 🔍 [Explore-Me](https://github.com/palakkatara14/EXPLORE-ME)
+- 🧮 [Simple Calculator](https://tinyurl.com/b5su2r3y)
