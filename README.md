@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Palak Katara</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7941E&width=435&lines=Full+Stack+Developer;Java+%26+MERN+Stack+Specialist;Problem+Solver+%7C+Lifelong+Learner;Building+Awesome+Software+Projects" alt="Typing SVG" />
