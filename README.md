@@ -1,5 +1,6 @@
 # palak-katara
-<h1 align="center">Hi 👋, I'm Palak Katara</h1>
+
+ <h1 align="center">Hi 👋, I'm Palak Katara</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github" />
 </p>
 
 ---
